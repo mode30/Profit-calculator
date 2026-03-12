@@ -1,0 +1,3 @@
+module example/profit_calculator
+
+go 1.25.0
